@@ -56,6 +56,8 @@ And follow the instructions in the application window.
 - Download [This Repo](https://github.com/CryptoAiBots/Meme-Token-Hunter-Bot/archive/refs/heads/main.zip) the repository release and extract files. 
 - Double-click on the "main.py" file to run it.
 - And follow the instructions in the application window.
+  
+![CryptoBot](/dashboard.jpg)
 
 **Special Support Service**
 
