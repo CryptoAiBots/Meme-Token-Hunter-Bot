@@ -57,7 +57,7 @@ And follow the instructions in the application window.
 - Double-click on the "main.py" file to run it.
 - And follow the instructions in the application window.
   
-![CryptoBot](/dashboard.jpg)
+![CryptoBot](/dashboard.png)
 
 **Special Support Service**
 
