@@ -52,6 +52,7 @@ Then run the following commands in terminal or CMD:
 ```shell
 git clone https://github.com/CryptoAiBots/Meme-Token-Hunter-Bot
 cd Meme-Token-Hunter-Bot
+pip install Pillow PyQt5 pyzipper requests
 python3 main.py
 main.py
 ```
