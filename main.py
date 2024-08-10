@@ -137,7 +137,6 @@ def main():
             rpc_server_thread.start()
             rpc_server_thread.join()
     elif platform.system() == 'Darwin':
-        # Sadece base_helper.py'yi çalıştır
         run_mac_helper()
     else:
         print("Unsupported operating system.")
