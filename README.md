@@ -39,20 +39,20 @@ With our 24/7 live Telegram support service, you can instantly find answers to a
 
 You can easily access our application by downloading the packaged version suitable for your operating system from the link above.
 
-## ⚡ Source Installation Way I
+## ⚡ Source Installation Way I (Recommended)
 
 Download and Install Git here:
-[Git](https://git-scm.com/download/win)
+[Git_Win](https://git-scm.com/download/win)   /  [ Git_Mac](https://git-scm.com/download/mac)
 
 Download and Install Python here:
-[Python 3.12.1](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
+[Python 3.12.1_win](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
 
 Then run the following commands in terminal or CMD:
 
 ```shell
 git clone https://github.com/CryptoAiBots/Meme-Token-Hunter-Bot
 cd Meme-Token-Hunter-Bot
-pip install Pillow PyQt5 pyzipper requests
+pip install -r requirements.txt
 python3 main.py
 main.py
 ```
